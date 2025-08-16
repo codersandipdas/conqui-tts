@@ -14,6 +14,7 @@ ENV/
 # Audio files
 *.wav
 *.mp3
+outputs/
 
 # IDEs and editors
 .vscode/

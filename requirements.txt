@@ -4,3 +4,4 @@ torch
 TTS
 jinja2
 python-multipart
+uuid
