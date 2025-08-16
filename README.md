@@ -1,8 +1,6 @@
-# Coqui TTS with Gradio Web UI
+# Coqui TTS
 
-This project sets up a **Text-to-Speech (TTS)** system using [Coqui TTS](https://github.com/coqui-ai/TTS) with a simple **Gradio Web UI**.
-
-You can generate speech from text, test different voices, and even experiment with custom/cloned voices.
+This project sets up a **Text-to-Speech (TTS)** system using [Coqui TTS](https://github.com/coqui-ai/TTS)
 
 ---
 
